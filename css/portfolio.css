@@ -1,0 +1,122 @@
+#bloc-principal{
+	background-color: red;
+	width: 600px;
+	height:30px;
+	position: fixed;
+	padding-left:1330px;
+	padding-top: 10px;
+
+}
+
+#About{
+	background-color:black;
+	width: 100%;
+	height: 350px;
+	text-align: center;
+	padding-top: 357px;
+	color: white;
+}
+
+.about1{
+	font-size: 50px;
+}
+
+.about2{
+	font-size: 30px;
+}
+
+#Work{
+	background-color: blue;
+	width: 100%;
+	height: 650px;
+	text-align: center;
+	color: white;
+	
+	padding-top:70px ;
+}
+
+.work1{
+	font-size: 60px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.img-produit{
+	width: 430px;
+	height: 490px;
+	padding: 15px;
+}
+
+#Contact{
+	background-color:black;
+	width: 100%;
+	height: 360px;
+	text-align: center;
+	color: white;
+	padding-top: 150px;
+}
+
+.contact1{
+	font-size: 60px;
+}
+
+.contact11{
+	font-size: 20px;
+}
+
+.contact21{
+	display: inline-block;
+	background-color: black;
+	color: white;
+	padding: 25px;
+	height: 30px;
+	width: 135px;
+	margin-top:45px ;
+	font-size: 20px;
+	text-align: center;
+}
+
+.img-produit2{
+	width: 15px;
+	height: 15px;
+	padding-right: 5px;
+}
+
+#contact3{
+	width: 100%;
+	height: 3px;
+	background-color: red;
+}
+
+#contact4{
+	background-color: black;
+	height: 80px;
+	width: 600pxpx;
+	display: inline-block;
+}
+
+.contact41{
+	height: 30px;
+	width: 550px;
+	color: white;
+	padding-top:30px ;
+	padding-left:60px;
+	background-color: black;
+}
+
+.contact42{
+	height: 30px;
+	width: 350px;
+	color: white;
+	padding-top:30px ;
+	background-color: black;
+	margin-left: 1200px;
+	margin-top: -60px;
+}
+
+.img-produit3{
+	width: 15px;
+	height: 15px;
+	padding-right: 5px;
+	border-radius: 50%;
+}

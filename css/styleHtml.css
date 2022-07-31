@@ -1,0 +1,67 @@
+html, body{
+	background-color: whitesmoke;
+	min-width: 290px;
+	color: #4D4E53;
+	font-family: 'open sans', sans-serif;
+	line-height: 1.5;
+}
+/*Style du menu-lateral*/
+#menu-lateral{
+	position: fixed;
+	min-height: 290px;
+	left: 0;
+	top: 0;
+	width: 300px;
+	height: 100%;
+	border-right: solid;
+	border-color: rgb(0, 22, 22, 0.4);
+}
+
+#menu-lateral h2{
+	color: black;
+	margin: 10px;
+	text-align: center;
+	font-size: 1.6em;
+	font-weight: thin;
+}
+
+#menu-lateral ul{
+	height: 88%;
+	padding: 0;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+
+#menu-lateral ul li{
+	color: #4D41E53;
+	border-top: 1px solid;
+	list-style: none;
+	position: relative;
+	width: 100%;
+}
+
+#menu-lateral ul li a{
+	display: block;
+	padding: 10px 30px;
+	color: #4D41E53;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.article{
+	width: calc(100% - 300px);
+	padding-left: 300px;
+}
+
+p{
+	margin-top: -17px;
+}
+
+h3{
+	margin-top: -7px;
+}
+
+.image{
+	margin-left: 300px;
+}
